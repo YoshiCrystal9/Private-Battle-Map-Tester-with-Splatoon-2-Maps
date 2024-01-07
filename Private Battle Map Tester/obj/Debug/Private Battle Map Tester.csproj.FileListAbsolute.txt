@@ -1,0 +1,10 @@
+D:\GitHub\Private-Battle-Map-Tester-with-Splatoon-2-Maps\Private Battle Map Tester\bin\Debug\Private Battle Map Tester.exe.config
+D:\GitHub\Private-Battle-Map-Tester-with-Splatoon-2-Maps\Private Battle Map Tester\bin\Debug\Private Battle Map Tester.exe
+D:\GitHub\Private-Battle-Map-Tester-with-Splatoon-2-Maps\Private Battle Map Tester\bin\Debug\Private Battle Map Tester.pdb
+D:\GitHub\Private-Battle-Map-Tester-with-Splatoon-2-Maps\Private Battle Map Tester\obj\Debug\Private Battle Map Tester.csproj.AssemblyReference.cache
+D:\GitHub\Private-Battle-Map-Tester-with-Splatoon-2-Maps\Private Battle Map Tester\obj\Debug\Private_Battle_Map_Tester.Form1.resources
+D:\GitHub\Private-Battle-Map-Tester-with-Splatoon-2-Maps\Private Battle Map Tester\obj\Debug\Private_Battle_Map_Tester.Properties.Resources.resources
+D:\GitHub\Private-Battle-Map-Tester-with-Splatoon-2-Maps\Private Battle Map Tester\obj\Debug\Private Battle Map Tester.csproj.GenerateResource.cache
+D:\GitHub\Private-Battle-Map-Tester-with-Splatoon-2-Maps\Private Battle Map Tester\obj\Debug\Private Battle Map Tester.csproj.CoreCompileInputs.cache
+D:\GitHub\Private-Battle-Map-Tester-with-Splatoon-2-Maps\Private Battle Map Tester\obj\Debug\Private Battle Map Tester.exe
+D:\GitHub\Private-Battle-Map-Tester-with-Splatoon-2-Maps\Private Battle Map Tester\obj\Debug\Private Battle Map Tester.pdb

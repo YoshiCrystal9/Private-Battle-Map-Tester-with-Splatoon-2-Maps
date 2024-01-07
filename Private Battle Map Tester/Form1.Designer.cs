@@ -199,7 +199,7 @@
             this.authorLabel.Name = "authorLabel";
             this.authorLabel.Size = new System.Drawing.Size(90, 13);
             this.authorLabel.TabIndex = 8;
-            this.authorLabel.Text = "Made by Sheldon";
+            this.authorLabel.Text = "Made by Sheldon | Edited by YoshiCrystal";
             // 
             // Form1
             // 
